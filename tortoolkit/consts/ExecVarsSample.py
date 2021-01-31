@@ -7,7 +7,7 @@ except:
         
         API_HASH = "59a8f745ed0ca831e697b8a0bf28d2f0"
         API_ID = 2388586
-        BOT_TOKEN = "1617462600:AAHZ7PKh6HiY3guqvMyRvlKNfYR1W-rK22Q"
+        BOT_TOKEN = "1617462600:AAHyvShseGQS6RwB4tia8L9GqabCH4-UhZE-rK22Q"
         BASE_URL_OF_BOT = "http://t.me/unnamedKKbot"
 
         # Edit the server port if you want to keep it default though.
