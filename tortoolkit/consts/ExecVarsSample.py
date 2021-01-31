@@ -11,7 +11,7 @@ except:
         BASE_URL_OF_BOT = "http://t.me/unnamedKKbot"
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 3000
+        SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [-1001235672935,899602727,911646244]
